@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Tiffany Script';
+    src: url('TiffanyScriptRegular.eot');
+    src: url('TiffanyScriptRegular.eot?#iefix') format('embedded-opentype'),
+        url('TiffanyScriptRegular.woff2') format('woff2'),
+        url('TiffanyScriptRegular.woff') format('woff'),
+        url('TiffanyScriptRegular.ttf') format('truetype'),
+        url('TiffanyScriptRegular.svg#TiffanyScriptRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
